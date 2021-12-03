@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Agro.Tag.Application/1.0.0": {
+        "dependencies": {
+          "Agro.Tag.Core": "1.0.0",
+          "Agro.Tag.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Agro.Tag.Application.dll": {}
+        }
+      },
+      "Agro.Tag.Core/1.0.0": {
+        "runtime": {
+          "Agro.Tag.Core.dll": {}
+        }
+      },
+      "Agro.Tag.Shared/1.0.0": {
+        "runtime": {
+          "Agro.Tag.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Agro.Tag.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Agro.Tag.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Agro.Tag.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Agro.Tag.Core\Agro.Tag.Core.csproj" />
+    <ProjectReference Include="..\Agro.Tag.Shared\Agro.Tag.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
